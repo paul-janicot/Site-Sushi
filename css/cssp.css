@@ -1,0 +1,154 @@
+.bas {
+	max-width: 5%;
+}
+
+.tableau-style {
+	border-collapse: collapse;
+	min-width: 400px;
+	width:  auto;
+	box-shadow: 0 5px 50px rgba(0,0,0,0.5);
+	margin: 100px auto;
+	border: 2px solid #90A0D0;
+
+}
+
+thead tr {
+	background-color: #90A0D0;
+	background-color: ;
+	background-color: ;
+	color: #fff;
+	text-align: left;
+
+}
+
+th, td{
+	padding: 15px 20px;
+
+}
+
+tbody tr, td, th {
+
+	border:  1px solid #ddd;
+}
+tbody tr {
+	background-color: #fff;
+}
+
+
+tbody tr:nth-child(even){
+	background-color: #f3f3f3;
+
+}
+
+.Titre2 {
+	font-weight: bold;
+	text-align: center;
+}
+
+.centre {
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: auto;
+	margin-top: auto;
+	text-align: center;
+}
+
+
+
+.img-droite {
+	border: none;
+	width: 200px;
+	height: 200px;
+	float: right;
+	margin-top: auto;
+	margin-bottom: auto;
+	margin-left: 15px;
+
+}
+
+.img-droite1 {
+	border: none;
+	width: 300px;
+	height: 300px;
+	float: right;
+	margin-top: auto;
+	margin-bottom: auto;
+	margin-left: 15px;
+
+}
+
+.img-gauche {
+	width: 200px;
+	height: 200px;
+	float: left;
+	margin-top: auto;
+	margin-bottom: auto;
+	margin-right: 15px;
+	border: none;
+
+
+}
+
+.img-gauche1 {
+	border: none;
+	width: 30%;
+	height: 30%;
+	float: left;
+	margin-top: auto;
+	margin-bottom: auto;
+	margin-right: 15px;
+
+}
+
+.img-gauche2 {
+	border: none;
+	width: 19%;
+	height: 19%;
+	float: left;
+	margin-top: auto;
+	margin-bottom: auto;
+	margin-right: 15px;
+
+}
+
+
+
+.container2 {
+	position: absolute;
+	left: 48.25%;
+	bottom: auto	;
+
+	transform: translate(-50%, -50%);
+}
+
+.btn-confettis {
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	z-index: -1;
+	border-radius: 50%;
+	border: none;
+	cursor: pointer;
+	outline: none;
+	box-shadow: 0 7px 0 rgb(160 160 160);
+	font-size: 30px;
+
+}
+
+.btn-confettis:active {
+	margin-top: 7px;
+	box-shadow: 0 0px 0 rgb(160 160 160);
+}
+
+.slot {
+	position: relative;
+	perspective: 1000px	;
+
+}
+
+.slot div{
+	width: 35px;
+	height: 35px;
+	position: absolute;
+	user-select: none;
+}

@@ -1,0 +1,20 @@
+Janicot Paul
+
+Thème : Les sushis (recettes)
+
+lien : https://helicopterhelicopter.000webhostapp.com/accueil.php
+
+Nom de la nouvelle feuillde de style CSS: cssp.css
+
+Nom de la nouvelle page javascript: jsp.js 
+
+Effet recherché du js: réaliser un bouton qui après avoir été cliqué déclenche une éxplosion d'émoji. 
+Ce bouton se trouve en bas de la page restaurants.html
+
+Mon formulaire php, qui est un espace commentaire utilisant la banque de donnée phpMyAdmin, 
+se trouve en bas de la page accueil.php 
+
+Ma soeur à réalisé certaines de mes illustrations. j'ai donc précisé que les sources des images et donnés que j'ai récupéré de lien externe. 
+Les recettes viennent de mon éxperience personel. 
+
+N'hésitez pas à faire des sushis :) 
